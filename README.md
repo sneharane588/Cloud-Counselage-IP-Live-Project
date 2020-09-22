@@ -26,3 +26,15 @@ h. Plot the relationship between the CGPA and the target variable.<br>
 i. Plot the relationship between the Area of Interest and the target variable.<br>
 j. Plot the relationship between the year of study, major, and the target variable.<br>
 3. Identify the best binary classifier to classify data into “eligible/1” and “not eligible/0”.<br>
+
+### The Visualization output file : [Visualization-output.pdf](https://github.com/sneharane588/Cloud-Counselage-IP-Live-Project/files/5263869/Visualization-output.pdf)
+
+## Visualization pdf file created : 
+
+![visualization pdf by command line](https://user-images.githubusercontent.com/19407823/93935091-b899a500-fd41-11ea-81b9-df73b50a42eb.PNG)
+
+## Classification F1 score : 
+
+![F1 score output by command line](https://user-images.githubusercontent.com/19407823/93935105-bf281c80-fd41-11ea-8184-520489250d29.PNG)
+
+
