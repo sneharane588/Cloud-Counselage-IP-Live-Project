@@ -1,7 +1,12 @@
 # Cloud-Counselage-IP-Live-Project
+                              
+## TECHNOLOGY: DATA SCIENCE</center>
 
-## <center>PROBLEM STATEMENT
-### TECHNOLOGY: DATA SCIENCE</center>
+This is <b>Final live project</b> assigned to me at Cloud Counselage Data Science Internship.
+
+To checkout <b>Mini Project</b> <a href="https://github.com/sneharane588/FakeNewsPrediction">Click here</a>
+
+## <center>PROBLEM STATEMENT 
 
 Students from different cities from the state of Maharashtra had applied for the Cloud
 Counselage Internship Program. We have the dataset of consisting information of all the
